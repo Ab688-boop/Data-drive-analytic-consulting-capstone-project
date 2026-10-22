@@ -88,7 +88,7 @@ Profit grows every year, but the overall margin is only **12.5%**, **18.7%** of 
 
 | | |
 |---|---|
-| ![Category and product](dashboard_2_category_product.png) | ![Region and customer](images/dashboard_3_region_customer.png) |
+| ![Category and product](dashboard_2_category_product.png) | ![Region and customer](dashboard_3_region_customer.png) |
 | ![Trend and recommendations](images/dashboard_4_trend_recommendations.png) | |
 
 The Power BI file is in `dashboard/Superstore_Executive_Summary_Dashboard.pbix` (PDF export alongside). It reads from the SQL Server table `CleanedOrders`, so open it with the table loaded, or point the data source to your own server.

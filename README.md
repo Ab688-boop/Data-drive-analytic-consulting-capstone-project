@@ -2,7 +2,7 @@
 
 An end-to-end data analytics / consulting capstone project built with **Python, SQL Server and Power BI** on the Superstore sales dataset (2014-2017).
 
-![Executive summary dashboard]()
+![Executive summary dashboard](images/dashboard_1_executive_summary.png)
 
 ## Business Problem
 
